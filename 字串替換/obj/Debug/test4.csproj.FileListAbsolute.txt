@@ -1,0 +1,6 @@
+C:\Users\aa415\source\repos\test\test4\bin\Debug\test4.exe.config
+C:\Users\aa415\source\repos\test\test4\bin\Debug\test4.exe
+C:\Users\aa415\source\repos\test\test4\bin\Debug\test4.pdb
+C:\Users\aa415\source\repos\test\test4\obj\Debug\test4.csprojAssemblyReference.cache
+C:\Users\aa415\source\repos\test\test4\obj\Debug\test4.exe
+C:\Users\aa415\source\repos\test\test4\obj\Debug\test4.pdb
